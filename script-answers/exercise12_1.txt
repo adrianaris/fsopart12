@@ -1,0 +1,12 @@
+Script started on 2023-03-16 19:44:30+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="157" LINES="81"]
+[1m[7m%[27m[1m[0m                                                                                                                                                             ]2;adrianaris@nixos:~/treaba/fsopart12/script-answers]1;..cript-answers[0m[27m[24m[J[39m[0m[49m[40m[39m adrianaris@nixos [44m[30m[30m ~/treaba/fsopart12/script-answers [43m[34m[30m  main ± [49m[33m[39m [K[?1h=[?2004hccurl hhtp   ttp://helsinki.fi[?1l>[?2004l
+]2;curl http://helsinki.fi]1;curl<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.20.1</center>
+</body>
+</html>
+[1m[7m%[27m[1m[0m                                                                                                                                                             ]2;adrianaris@nixos:~/treaba/fsopart12/script-answers]1;..cript-answers[0m[27m[24m[J[39m[0m[49m[40m[39m adrianaris@nixos [44m[30m[30m ~/treaba/fsopart12/script-answers [43m[34m[30m  main ± [49m[33m[39m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2023-03-16 19:45:04+01:00 [COMMAND_EXIT_CODE="0"]
