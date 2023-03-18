@@ -1,0 +1,882 @@
+Script started on 2023-03-18 13:57:16+01:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="171" LINES="89"]
+[1m[7m%[27m[1m[0m                                                                                                                                                                           ]2;adrianaris@nixos:~/treaba/fsopart12/script-answers]1;..cript-answers[0m[27m[24m[J[39m[0m[49m[40m[39m adrianaris@nixos [44m[30m[30m ~/treaba/fsopart12/script-answers [43m[34m[30m  main [49m[33m[39m [K[?1h=[?2004hddoce ker exec -it 
+zsh: do you wish to see all 3070 possibilities (768 lines)? y[J[0m!                                         _fmt                                      lvscan                                    _sd_unit_files                          
+-                                         fmt                                       _lynx                                     _seafile                                
+.                                         _fold                                     _lz4                                      _sed                                    
+:                                         fold                                      lzcat                                     sed                                     
+\[                                        for                                       lzcmp                                     SEGMENT_SEPARATOR                       
+[                                         foreach                                   lzdiff                                    select                                  
+[[                                        _fortune                                  lzegrep                                   _selinux_contexts                       
+_                                         fpath                                     lzfgrep                                   _selinux_roles                          
+{                                         FPATH                                     lzgrep                                    _selinux_types                          
+}                                         _free                                     lzless                                    _selinux_users                          
+0                                         free                                      lzma                                      _sep_parts                              
+1                                         _freebsd-update                           lzmadec                                   _seq                                    
+2                                         fsadm                                     lzmainfo                                  seq                                     
+2to3                                      fsck                                      lzmore                                    _sequence                               
+2to3-3.10                                 fsck.cramfs                               _lzop                                     serialver                               
+3                                         fsck.ext2                                 _mac_applications                         _service                                
+4                                         fsck.ext3                                 _mac_files_for_application                servicemenuinstaller                    
+5                                         fsck.ext4                                 _machinectl                               _services                               
+6                                         fsck.fat                                  machinectl                                _set                                    
+7                                         fsck.minix                                MACHTYPE                                  set                                     
+8                                         fsck.msdos                                _madison                                  setarch                                 
+9                                         fsck.vfat                                 _mail                                     setcap                                  
+_a2ps                                     fsfreeze                                  _mailboxes                                setclasspath.bat                        
+_a2utils                                  _fsh                                      MAILCHECK                                 setclasspath.sh                         
+_aap                                      _fstat                                    mailpath                                  _set_command                            
+_abcde                                    fstrim                                    MAILPATH                                  _setfacl                                
+_absolute_command_paths                   _fs_usage                                 _main_complete                            setfacl                                 
+accessdb                                  FUNCNEST                                  _make                                     setfattr                                
+_ack                                      function                                  make                                      setfont                                 
+aconnect                                  _functions                                makebase.bat                              setkeycodes                             
+_acpi                                     functions                                 makebase.sh                               setleds                                 
+_acpitool                                 funzip                                    make-bcache                               setlogcons                              
+_acroread                                 _fuse_arguments                           makedb                                    setmetamode                             
+_adb                                      _fuser                                    makeinfo                                  _setopt                                 
+addgnupghome                              _fusermount                               _make-kpkg                                setopt                                  
+addpart                                   fusermount                                _man                                      setpalette                              
+addr2line                                 fusermount3                               man                                       _setpriv                                
+_add-zle-hook-widget                      fusermount3.real                          MANAGERPID                                setpriv                                 
+_add-zsh-hook                             fusermount.real                           man-command-line                          _setsid                                 
+add-zsh-hook                              _fuse_values                              mandb                                     setsid                                  
+adjustDisplay.sh                          _fw_update                                manpath                                   setterm                                 
+ag                                        FX                                        MANPATH                                   _setup                                  
+agetty                                    fzf                                       man-recode                                setvesablank                            
+_alias                                    fzf-share                                 mapscrn                                   setvtrgb                                
+alias                                     fzf-tmux                                  _mat                                      _setxkbmap                              
+_aliases                                  g                                         _mat2                                     setxkbmap                               
+aliases                                   g++                                       _match                                    sfdisk                                  
+alias_value                               ga                                        _math                                     sftp                                    
+_all_labels                               gaa                                       _math_params                              sg                                      
+_all_matches                              galiases                                  _matlab                                   sg.real                                 
+alsabat                                   gam                                       mcookie                                   _sh                                     
+alsabat-test.sh                           gama                                      md                                        sh                                      
+alsaconf                                  gamc                                      _md5sum                                   sha1sum                                 
+alsactl                                   gams                                      md5sum                                    sha224sum                               
+alsa-info                                 gamscp                                    _mdadm                                    sha256sum                               
+alsaloop                                  gap                                       mdadm                                     sha384sum                               
+alsamixer                                 gapa                                      _mdfind                                   sha512sum                               
+alsatplg                                  gapt                                      _mdls                                     _shasum                                 
+alsaucm                                   gau                                       mdmon                                     shasum                                  
+_alsa-utils                               gav                                       _mdutil                                   SHELL                                   
+_alternative                              gawk                                      meinproc5                                 SHELL_SESSION_ID                        
+amidi                                     gb                                        _members                                  shift                                   
+amixer                                    gba                                       _mencal                                   SHLVL                                   
+_analyseplugin                            gbd                                       _menu                                     SHORT_HOST                              
+_ansible                                  gbD                                       _mere                                     showconsolefont                         
+_ant                                      gbda                                      _mergechanges                             showkey                                 
+_antiword                                 gbl                                       mesg                                      _showmount                              
+_apachectl                                gbnm                                      _message                                  _shred                                  
+aplay                                     gbr                                       _mh                                       shred                                   
+aplaymidi                                 gbs                                       _mii-tool                                 _shuf                                   
+_apm                                      gbsb                                      mii-tool                                  shuf                                    
+applygnupgdefaults                        gbsg                                      _mime_types                               _shutdown                               
+_approximate                              gbsr                                      _mixerctl                                 shutdown                                
+apropos                                   gbss                                      mkcd                                      shutdown.bat                            
+_apt                                      gc                                        mk_cmds                                   shutdown.sh                             
+_apt-file                                 gc!                                       _mkdir                                    _signals                                
+_aptitude                                 gca                                       mkdir                                     signals                                 
+_apt-move                                 gca!                                      mkdosfs                                   _signify                                
+_apt-show-versions                        gcam                                      mke2fs                                    simpress                                
+ar                                        gcan!                                     _mkfifo                                   _sisu                                   
+_arch_archives                            gcans!                                    mkfifo                                    size                                    
+_arch_namespace                           gcas                                      mkfs                                      _slabtop                                
+arecord                                   gcasm                                     mkfs.bfs                                  slabtop                                 
+arecordmidi                               gcb                                       mkfs.cramfs                               slack                                   
+_arg_compile                              _gcc                                      mkfs.ext2                                 slattach                                
+__arguments                               gcc                                       mkfs.ext3                                 sleep                                   
+_arguments                                gccd                                      mkfs.ext4                                 sln                                     
+[Jargv                                      [Jgcd                                       [Jmkfs.fat                                  [J_slrn                                   [J
+_arp                                      [Jgcf                                       [Jmkfs.minix                                [J_smartmontools                          [J
+arp                                       [Jgcl                                       [Jmkfs.msdos                                [Jsmath                                   [J
+arpd                                      [Jgclean                                    [Jmkfs.ntfs                                 [J_smit                                   [J
+_arping                                   [Jgcm                                       [Jmkfs.vfat                                 [J_snoop                                  [J
+arping                                    [Jgcmsg                                     [Jmkhomedir_helper                          [J_socket                                 [J
+_arrays                                   [Jgcn!                                      [Jmklost+found                              [J_sockstat                               [J
+as                                        [Jgco                                       [J_mknod                                    [Jsoffice                                 [J
+_asciidoctor                              [Jgcor                                      [Jmknod                                     [J_softwareupdate                         [J
+_asciinema                                [J_gcore                                    [Jmkntfs                                    [Jsolid-action-desktop-gen                [J
+aseqdump                                  [Jgcount                                    [Jmkpasswd                                  [Jsolid-hardware5                         [J
+aseqnet                                   [Jgcp                                       [J_mkshortcut                               [J_sort                                   [J
+_assign                                   [Jgcpa                                      [Jmkswap                                    [Jsort                                    [J
+_at                                       [Jgcpc                                      [J_mktemp                                   [Jsotruss                                 [J
+_attr                                     [Jgcs                                       [Jmktemp                                    [J_source                                 [J
+attr                                      [Jgcsm                                      [Jmkv                                       [Jsource                                  [J
+_augeas                                   [Jgcss                                      [J_mkzsh                                    [Jspa-acp-tool                            [J
+_auto-apt                                 [Jgcssm                                     [Jmmcli                                     [Jspa-inspect                             [J
+_autocd                                   [Jgd                                        [JModemManager                              [Jspa-json-dump                           [J
+autoload                                  [J_gdb                                      [Jmodinfo                                   [J_spamassassin                           [J
+_avahi                                    [Jgdca                                      [Jmodprobe                                  [Jspa-monitor                             [J
+_awk                                      [Jgdct                                      [J_module                                   [Jspa-resample                            [J
+awk                                       [Jgdcw                                      [J_module-assistant                         [Jspawn_console                           [J
+axfer                                     [JGDK_PIXBUF_MODULE_FILE                    [J_module_math_func                         [Jspawn_login                             [J
+_axi-cache                                [Jgdnolock                                  [Jmodule_path                               [Jspeaker-test                            [J
+b2sum                                     [Jgds                                       [JMODULE_PATH                               [Jspectacle                               [J
+badblocks                                 [Jgdt                                       [J_modutils                                 [Jspectrum_bls                            [J
+balooctl                                  [Jgdup                                      [J_mondo                                    [Jspectrum_ls                             [J
+baloo_file                                [Jgdv                                       [J_monotone                                 [Jsplain                                  [J
+baloo_file_extractor                      [Jgdw                                       [J_moosic                                   [J_split                                  [J
+baloosearch                               [J_geany                                    [Jmore                                      [Jsplit                                   [J
+balooshow                                 [J_gem                                      [J_mosh                                     [Jspotify                                 [J
+base32                                    [Jgencat                                    [J_most_recent_file                         [J_spring                                 [J
+_base64                                   [J_generic                                  [J_mount                                    [Jspring                                  [J
+base64                                    [J_genisoimage                              [Jmount                                     [Jsprof                                   [J
+_basename                                 [Jgenl                                      [Jmount.fuse                                [JSPROMPT                                 [J
+basename                                  [Jgentrigrams                               [Jmount.fuse3                               [J_sqlite                                 [J
+_basenc                                   [Jgetcap                                    [Jmount.fuse.sshfs                          [Jsqlite3                                 [J
+basenc                                    [J_getclip                                  [Jmount.lowntfs-3g                          [J_sqsh                                   [J
+_bash                                     [J_getconf                                  [Jmount.ntfs                                [J_ss                                     [J
+bash                                      [Jgetconf                                   [Jmount.ntfs-3g                             [Jss                                      [J
+bashbug                                   [J_getent                                   [Jmountpoint                                [J_ssh                                    [J
+bashcompinit                              [Jgetent                                    [Jmount.real                                [Jssh                                     [J
+_bash_complete                            [J_getfacl                                  [Jmount.sshfs                               [Jssh-add                                 [J
+_bash_completions                         [Jgetfacl                                   [J_mozilla                                  [Jssh-agent                               [J
+_baudrates                                [Jgetfattr                                  [JMOZ_PLUGIN_PATH                           [JSSH_ASKPASS                             [J
+_baz                                      [Jgetkeycodes                               [J_mpc                                      [JSSH_AUTH_SOCK                           [J
+bcache-super-show                         [Jgetln                                     [J_mplayer                                  [Jssh-copy-id                             [J
+_beadm                                    [J_getmail                                  [J_mt                                       [Jsshd                                    [J
+_beep                                     [J_getopt                                   [J_mtools                                   [J_sshfs                                  [J
+_be_name                                  [Jgetopt                                    [J_mtr                                      [Jsshfs                                   [J
+bg                                        [Jgetopts                                   [Jmtr                                       [J_ssh_hosts                              [J
+BG                                        [Jgetpcaps                                  [Jmtr-packet                                [Jssh-keygen                              [J
+bg_bold                                   [Jgetsubids                                 [Jmtr-packet.real                           [Jssh-keyscan                             [J
+bg_no_bold                                [Jgetunimap                                 [J_multi_parts                              [Jstart_kdeinit                           [J
+_bibtex                                   [Jgf                                        [J_mupdf                                    [Jstart_kdeinit.real                      [J
+_bind_addresses                           [Jgfa                                       [J_mutt                                     [Jstartplasma-wayland                     [J
+_bindkey                                  [Jgfg                                       [J_mv                                       [Jstartplasma-x11                         [J
+bindkey                                   [Jgfo                                       [Jmv                                        [Jstartup.bat                             [J
+_bison                                    [Jgg                                        [Jmvi                                       [Jstartup.sh                              [J
+_bittorrent                               [Jgga                                       [Jmvidiff                                   [J_stat                                   [J
+blkdeactivate                             [Jggf                                       [Jmvn                                       [Jstat                                    [J
+blkdiscard                                [Jggfl                                      [JmvnDebug                                  [J_stdbuf                                 [J
+blkid                                     [Jggl                                       [J_my_accounts                              [Jstdbuf                                  [J
+blkzone                                   [Jggp                                       [J_myrepos                                  [J_stgit                                  [J
+blockdev                                  [Jggpnp                                     [J_mysqldiff                                [J_store_cache                            [J
+_bogofilter                               [Jggpull                                    [J_mysql_utils                              [J_stow                                   [J
+bold_color                                [Jggpur                                     [Jnameddirs                                 [J_strace                                 [J
+_bootctl                                  [Jggpush                                    [Jnamei                                     [Jstrace                                  [J
+bootctl                                   [Jggsup                                     [Jnameif                                    [Jstrace-log-merge                        [J
+bootstrap.jar                             [Jggu                                       [Jnano                                      [Jstreamzip                               [J
+_bpf_filters                              [Jghh                                       [J_nautilus                                 [J_strftime                               [J
+_bpython                                  [J_ghostscript                              [J_nbsd_architectures                       [J_strings                                [J
+_brace_parameter                          [JGID                                       [Jnc                                        [Jstrings                                 [J
+bracketed-paste-magic                     [Jgignore                                   [J_ncftp                                    [J_strip                                  [J
+_brctl                                    [Jgignored                                  [J_nedit                                    [Jstrip                                   [J
+break                                     [J_git                                      [Jneofetch                                  [J_stty                                   [J
+breeze-settings5                          [Jgit                                       [J_netcat                                   [Jstty                                    [J
+bridge                                    [J_git-buildpackage                         [J_net_interfaces                           [J_su                                     [J
+broadwayd                                 [Jgit_commits_ahead                         [J_netscape                                 [Jsu                                      [J
+_bsdconfig                                [Jgit_commits_behind                        [J_netstat                                  [J_sub_commands                           [J
+_bsd_disks                                [Jgit-credential-netrc                      [Jnetstat                                   [J_sublimetext                            [J
+_bsdinstall                               [Jgit_current_branch                        [J_networkctl                               [J_subscript                              [J
+_bsd_pkg                                  [Jgit_current_user_email                    [Jnetworkctl                                [J_subversion                             [J
+_btrfs                                    [Jgit_current_user_name                     [J_networkmanager                           [J_sudo                                   [J
+_bts                                      [Jgit-cvsserver                             [JNetworkManager                            [Jsudo                                    [J
+_bug                                      [Jgit_develop_branch                        [J_networksetup                             [Jsudoedit                                [J
+build_prompt                              [Jgit-http-backend                          [Jnewgidmap                                 [Jsudoedit.real                           [J
+_builtin                                  [Jgit-jump                                  [Jnewgidmap.real                            [Jsudo_logsrvd                            [J
+builtin                                   [J_git_log_prettily                         [Jnewgrp                                    [Jsudo.real                               [J
+bunzip2                                   [Jgit_main_branch                           [Jnewgrp.real                               [Jsudoreplay                              [J
+_busctl                                   [Jgit_prompt_ahead                          [J_newsgroups                               [Jsudo_sendlog                            [J
+busctl                                    [Jgit_prompt_behind                         [Jnewuidmap                                 [J_suffix_alias_files                     [J
+bye                                       [J__git_prompt_git                          [Jnewuidmap.real                            [Jsulogin                                 [J
+bzcat                                     [Jgit_prompt_info                           [Jnewusers                                  [Jsum                                     [J
+bzcmp                                     [Jgit_prompt_long_sha                       [J_next_label                               [Jsu.real                                 [J
+bzdiff                                    [Jgit_prompt_remote                         [J_next_tags                                [J_surfraw                                [J
+bzegrep                                   [Jgit_prompt_short_sha                      [J_nginx                                    [J_SUSEconfig                             [J
+bzfgrep                                   [Jgit_prompt_status                         [J_ngrep                                    [Jsuspend                                 [J
+bzgrep                                    [Jgit-receive-pack                          [J_nice                                     [J_svcadm                                 [J
+_bzip2                                    [Jgit_remote_status                         [Jnice                                      [J_svccfg                                 [J
+bzip2                                     [Jgit_repo_name                             [Jninfod                                    [J_svcprop                                [J
+bzip2recover                              [Jgit-shell                                 [Jnisdomainname                             [J_svcs                                   [J
+bzless                                    [Jgit-svn-dcommit-push                      [J_nix                                      [J_svcs_fmri                              [J
+bzmore                                    [Jgit-upload-archive                        [Jnix                                       [Jsvlc                                    [J
+_bzr                                      [Jgit-upload-pack                           [J_nix-build                                [J_svn-buildpackage                       [J
+bzr_prompt_info                           [Jgk                                        [Jnix-build                                 [Jsvn_prompt_info                         [J
+c++                                       [Jgke                                       [J_nix-channel                              [J_swaks                                  [J
+_cabal                                    [Jgl                                        [Jnix-channel                               [J_swanctl                                [J
+_cache_invalid                            [Jglg                                       [J_nix-collect-garbage                      [Jswaplabel                               [J
+_caffeinate                               [Jglgg                                      [Jnix-collect-garbage                       [Jswapoff                                 [J
+_cal                                      [Jglgga                                     [J_nix-common-options                       [Jswapon                                  [J
+cal                                       [Jglgm                                      [J_nix-copy-closure                         [J_swift                                  [J
+_calendar                                 [Jglgp                                      [Jnix-copy-closure                          [Jswitch_root                             [J
+_call_function                            [Jglo                                       [Jnix-daemon                                [Jswriter                                 [J
+_call_program                             [J_global                                   [J_nix-env                                  [J_sw_vers                                [J
+_call_whatis                              [J_global_tags                              [Jnix-env                                   [Jsync                                    [J
+cancel                                    [J_globflags                                [J_nix-hash                                 [J_sys_calls                              [J
+_canonical_paths                          [J_globqual_delims                          [Jnix-hash                                  [J_sysclean                               [J
+_capabilities                             [J_globquals                                [Jnix-info                                  [J_sysctl                                 [J
+capsh                                     [Jgloburl                                   [J_nix-install-package                      [Jsysctl                                  [J
+captoinfo                                 [Jglod                                      [J_nix-instantiate                          [J_sysmerge                               [J
+case                                      [Jglods                                     [Jnix-instantiate                           [J_syspatch                               [J
+_cat                                      [Jglog                                      [J_nixops                                   [J_sysrc                                  [J
+cat                                       [Jgloga                                     [J_nixos-build-vms                          [J_sysstat                                [J
+catalina.bat                              [Jglol                                      [Jnixos-build-vms                           [J_systat                                 [J
+catalina.sh                               [Jglola                                     [J_nixos-container                          [J_systemctl                              [J
+catalina-tasks.xml                        [Jglols                                     [Jnixos-container                           [Jsystemctl                               [J
+catman                                    [Jglp                                       [Jnixos-enter                               [J_systemd                                [J
+cc                                        [Jgluc                                      [J_nixos-generate-config                    [J_systemd-analyze                        [J
+_ccal                                     [Jglum                                      [Jnixos-generate-config                     [Jsystemd-analyze                         [J
+_cd                                       [Jgm                                        [Jnixos-help                                [Jsystemd-ask-password                    [J
+cd                                        [Jgma                                       [J_nixos-install                            [Jsystemd-cat                             [J
+_cdbs-edit-patch                          [Jgmenudbusmenuproxy                        [Jnixos-install                             [Jsystemd-cgls                            [J
+_cdcd                                     [Jgmom                                      [J_nixos-option                             [Jsystemd-cgtop                           [J
+cdpath                                    [Jgmtl                                      [J_nixos-rebuild                            [Jsystemd-creds                           [J
+CDPATH                                    [Jgmtlvim                                   [Jnixos-rebuild                             [Jsystemd-cryptenroll                     [J
+_cdr                                      [Jgmum                                      [J__NIXOS_SET_ENVIRONMENT_DONE              [J_systemd-delta                          [J
+_cdrdao                                   [Jgmvi                                      [J_nixos-version                            [Jsystemd-delta                           [J
+_cdrecord                                 [Jgmvidiff                                  [Jnixos-version                             [Jsystemd-detect-virt                     [J
+cfdisk                                    [J_gnome-gv                                 [JNIX_PATH                                  [Jsystemd-dissect                         [J
+c++filt                                   [J_gnu_generic                              [JNIXPKGS_CONFIG                            [Jsystemd-escape                          [J
+chacl                                     [J_gnupod                                   [J_nixpkgs-review                           [JSYSTEMD_EXEC_PID                        [J
+chage                                     [J_gnutls                                   [J_nix-prefetch-url                         [Jsystemd-hwdb                            [J
+_chattr                                   [J_go                                       [Jnix-prefetch-url                          [Jsystemd-id128                           [J
+chattr                                    [Jgoogle-chrome-stable                      [JNIX_PROFILES                              [J_systemd-inhibit                        [J
+_chcon                                    [Jgp                                        [J_nix-push                                 [Jsystemd-inhibit                         [J
+chcon                                     [J_gpasswd                                  [J_nix-shell                                [Jsystemd-machine-id-setup                [J
+chcpu                                     [Jgpasswd                                   [Jnix-shell                                 [Jsystemd-mount                           [J
+chdir                                     [Jgpd                                       [J_nix-store                                [Jsystemd-notify                          [J
+checkXML5                                 [Jgpf                                       [Jnix-store                                 [J_systemd-nspawn                         [J
+_chflags                                  [Jgpf!                                      [JNIX_USER_PROFILE_DIR                      [Jsystemd-nspawn                          [J
+chfn                                      [J_gpg                                      [J_nkf                                      [J_systemd-path                           [J
+chgpasswd                                 [Jgpg                                       [J_nl                                       [Jsystemd-path                            [J
+chgrp                                     [Jgpg2                                      [Jnl                                        [Jsystemd-repart                          [J
+_chkconfig                                [Jgpg-agent                                 [J_nm                                       [Jsystemd-resolve                         [J
+chmem                                     [Jgpg-card                                  [Jnm                                        [J_systemd-run                            [J
+_chmod                                    [Jgpgconf                                   [J_nmap                                     [Jsystemd-run                             [J
+chmod                                     [Jgpg-connect-agent                         [Jnmcli                                     [Jsystemd-socket-activate                 [J
+_choom                                    [Jgpgparsemail                              [Jnm-online                                 [Jsystemd-stdio-bridge                    [J
+choom                                     [Jgpgscm                                    [Jnmtui                                     [Jsystemd-sysext                          [J
+_chown                                    [Jgpgsm                                     [Jnmtui-connect                             [J_systemd-tmpfiles                       [J
+chown                                     [Jgpgsplit                                  [Jnmtui-edit                                [Jsystemd-tmpfiles                        [J
+chpasswd                                  [Jgpgtar                                    [Jnmtui-hostname                            [Jsystemd-tty-ask-password-agent          [J
+_chroot                                   [JGPG_TTY                                   [JNO_AT_BRIDGE                              [Jsystemd-umount                          [J
+chroot                                    [Jgpgv                                      [Jnocorrect                                 [Jsystemmonitor                           [J
+_chrt                                     [Jgpg-wks-client                            [Jnode                                      [J_system_profiler                        [J
+chrt                                      [Jgpg-wks-server                            [Jnoglob                                    [Jsystemsettings                          [J
+chruby_prompt_info                        [J_gphoto2                                  [Jnohup                                     [Jsystemsettings5                         [J
+_chsh                                     [Jgpoat                                     [Jnologin                                   [J_sysupgrade                             [J
+chsh                                      [Jgpr                                       [J_normal                                   [Jtabs                                    [J
+chsh.real                                 [Jgpristine                                 [J_nothing                                  [J_tac                                    [J
+chvt                                      [J_gprof                                    [J_npm                                      [Jtac                                     [J
+ciphers.bat                               [Jgprof                                     [Jnpm                                       [J_tags                                   [J
+ciphers.sh                                [Jgpsup                                     [Jnproc                                     [J_tail                                   [J
+_cksum                                    [Jgpu                                       [Jnpx                                       [Jtail                                    [J
+cksum                                     [Jgpv                                       [Jnscd                                      [Jtake                                    [J
+_clay                                     [J_gqview                                   [J_nsenter                                  [Jtakedir                                 [J
+clear                                     [Jgr                                        [Jnsenter                                   [Jtakegit                                 [J
+clipcopy                                  [Jgra                                       [J_nslookup                                 [Jtakeurl                                 [J
+clippaste                                 [J_gradle                                   [Jnstat                                     [J_tar                                    [J
+clockdiff                                 [J_graphicsmagick                           [Jntfs-3g                                   [Jtar                                     [J
+clrunimap                                 [Jgrb                                       [Jntfs-3g.probe                             [J_tar_archive                            [J
+_cmdambivalent                            [Jgrba                                      [Jntfscat                                   [J_tardy                                  [J
+_cmdstring                                [Jgrbc                                      [Jntfsclone                                 [Jtaskset                                 [J
+_cmp                                      [Jgrbd                                      [Jntfscluster                               [Jtastenbrett                             [J
+cmp                                       [Jgrbi                                      [Jntfscmp                                   [Jtc                                      [J
+_code                                     [Jgrbm                                      [Jntfscp                                    [J_tcpdump                                [J
+code                                      [Jgrbo                                      [Jntfsfix                                   [J_tcpsys                                 [J
+col                                       [Jgrbom                                     [Jntfsinfo                                  [J_tcptraceroute                          [J
+colcrt                                    [Jgrbs                                      [Jntfslabel                                 [Jteamviewer                              [J
+color                                     [Jgrename                                   [Jntfsls                                    [Jteamviewerd                             [J
+COLORFGBG                                 [J_grep                                     [Jntfsrecover                               [J_tee                                    [J
+colors                                    [Jgrep                                      [Jntfsresize                                [Jtee                                     [J
+COLORTERM                                 [J_grep-excuses                             [Jntfssecaudit                              [J_telnet                                 [J
+colour                                    [Jgrev                                      [Jntfstruncate                              [JTERM                                    [J
+colrm                                     [Jgrh                                       [Jntfsundelete                              [Jtermcap                                 [J
+_column                                   [Jgrhh                                      [Jntfsusermap                               [J_terminals                              [J
+column                                    [Jgrm                                       [Jntfswipe                                  [JTERMINFO_DIRS                           [J
+COLUMNS                                   [Jgrmc                                      [JNULLCMD                                   [Jtest                                    [J
+_combination                              [Jgrmv                                      [J_numbers                                  [J_tex                                    [J
+_comm                                     [J_groff                                    [J_numfmt                                   [J_texi                                   [J
+comm                                      [Jgroh                                      [Jnumfmt                                    [Jtexi2any                                [J
+_command                                  [Jgroupadd                                  [Jnvidia-cuda-mps-control                   [Jtexi2dvi                                [J
+command                                   [Jgroupdel                                  [Jnvidia-cuda-mps-server                    [Jtexi2pdf                                [J
+_command_names                            [Jgroupmems                                 [Jnvidia-debugdump                          [Jtexindex                                [J
+command-not-found                         [Jgroupmod                                  [Jnvidia-settings                           [J_texinfo                                [J
+command_not_found_handler                 [J_groups                                   [Jnvidia-smi                                [Jtf_prompt_info                          [J
+commands                                  [Jgroups                                    [Jnvim                                      [Jthen                                    [J
+commons-daemon.jar                        [J_growisofs                                [Jnvim-python3                              [J_the_silver_searcher                    [J
+commons-daemon-native.tar.gz              [Jgrpck                                     [Jnvim-ruby                                 [Jtic                                     [J
+_compadd                                  [Jgrpconv                                   [Jnvlc                                      [J_tidy                                   [J
+compadd                                   [Jgrpunconv                                 [Jnvm_prompt_info                           [J_tiff                                   [J
+comparguments                             [Jgrrm                                      [Jnvr                                       [J_tilde                                  [J
+_comp_assocs                              [Jgrs                                       [J_nvram                                    [J_tilde_files                            [J
+compaudit                                 [Jgrset                                     [Jobjcopy                                   [Jtime                                    [J
+_compautos                                [Jgrss                                      [J_objdump                                  [J_timedatectl                            [J
+compcall                                  [Jgrst                                      [Jobjdump                                   [Jtimedatectl                             [J
+compctl                                   [Jgrt                                       [J_object_classes                           [JTIMEFMT                                 [J
+_compdef                                  [Jgru                                       [J_object_files                             [J_timeout                                [J
+compdef                                   [Jgrup                                      [Jobs                                       [Jtimeout                                 [J
+compdescribe                              [Jgrv                                       [J_obsd_architectures                       [Jtimes                                   [J
+compdump                                  [Jgsb                                       [Jobs-ffmpeg-mux                            [J_time_zone                              [J
+_comp_dumpfile                            [Jgsd                                       [J_od                                       [J_time_zone.orig                         [J
+compfiles                                 [J_gsettings                                [Jod                                        [J_tin                                    [J
+compgen                                   [Jgsh                                       [J_okular                                   [Jtipc                                    [J
+compgroups                                [Jgsi                                       [Jokular                                    [Jtitle                                   [J
+compile_et                                [Jgsps                                      [J_oldlist                                  [J_tla                                    [J
+compinit                                  [Jgsr                                       [JOLDPWD                                    [J_tload                                  [J
+compinstall                               [Jgss                                       [J_omz                                      [Jtload                                   [J
+_complete                                 [Jgst                                       [Jomz                                       [JTMPPREFIX                               [J
+complete                                  [Jgsta                                      [J_omz::changelog                           [J_tmux                                   [J
+_complete_debug                           [Jgstaa                                     [J_omz::confirm                             [Jtmux                                    [J
+_complete_help                            [Jgstall                                    [J_omz_diag_dump_check_core_commands        [J_todo.sh                                [J
+_complete_help_generic                    [J_gstat                                    [J_omz_diag_dump_echo_file_w_header         [J_toilet                                 [J
+_completers                               [Jgstc                                      [J_omz_diag_dump_one_big_text               [Jtomcat-juli.jar                         [J
+_complete_tag                             [Jgstd                                      [J_omz_diag_dump_os_specific_version        [Jtomcat-native.tar.gz                    [J
+_comp_locale                              [Jgstl                                      [Jomz_diagnostic_dump                       [J_toolchain-source                       [J
+_comp_options                             [Jgstp                                      [J_omz::help                                [Jtool-wrapper.bat                        [J
+_composer                                 [Jgsts                                      [Jomz_history                               [Jtool-wrapper.sh                         [J
+comppostfuncs                             [Jgstu                                      [J_omz::log                                 [J_top                                    [J
+compprefuncs                              [Jgsu                                       [J_omz::plugin                              [Jtop                                     [J
+compquote                                 [Jgsw                                       [J_omz::plugin::disable                     [J_topgit                                 [J
+_compress                                 [Jgswc                                      [J_omz::plugin::enable                      [J_totd                                   [J
+_comps                                    [Jgswd                                      [J_omz::plugin::info                        [J_touch                                  [J
+compset                                   [Jgswm                                      [J_omz::plugin::list                        [Jtouch                                   [J
+_comp_setup                               [Jgtf                                       [J_omz::plugin::load                        [J_tpb                                    [J
+comptags                                  [JGTK2_RC_FILES                             [J_omz::pr                                  [J_tput                                   [J
+comptry                                   [JGTK_A11Y                                  [J_omz::pr::clean                           [Jtput                                    [J
+compvalues                                [Jgtk-launch                                [J_omz::pr::test                            [J_tr                                     [J
+_condition                                [JGTK_PATH                                  [J_omz::reload                              [Jtr                                      [J
+configtest.bat                            [JGTK_RC_FILES                              [Jomz_termsupport_precmd                    [J_tracepath                              [J
+configtest.sh                             [Jgtk-update-icon-cache                     [Jomz_termsupport_preexec                   [Jtracepath                               [J
+_configure                                [Jgtl                                       [J_omz::theme                               [J_transmission                           [J
+continue                                  [Jgts                                       [J_omz::theme::list                         [J_trap                                   [J
+coproc                                    [Jgtv                                       [J_omz::theme::set                          [Jtrap                                    [J
+_coreadm                                  [J_guard                                    [J_omz::theme::use                          [JTRAPINT                                 [J
+_coredumpctl                              [J_guilt                                    [J_omz::update                              [JTRAPQUIT                                [J
+coredumpctl                               [Jgunignore                                 [Jomz_urldecode                             [J_trash                                  [J
+corelist                                  [Jgunwip                                    [Jomz_urlencode                             [J_tree                                   [J
+corepack                                  [Jgunzip                                    [J_omz::version                             [Jtrue                                    [J
+coreutils                                 [Jgup                                       [J_oomctl                                   [J_truncate                               [J
+_correct                                  [Jgupa                                      [Joomctl                                    [Jtruncate                                [J
+_correct_filename                         [Jgupav                                     [J_open                                     [J_truss                                  [J
+_correct_word                             [Jgupom                                     [Jopen_command                              [Jtry_alias_value                         [J
+_cowsay                                   [Jgupomi                                    [J_openstack                                [JTRY_BLOCK_ERROR                         [J
+_cp                                       [Jgupv                                      [Jopenvt                                    [JTRY_BLOCK_INTERRUPT                     [J
+cp                                        [J_gv                                       [J_opkg                                     [Jtset                                    [J
+cpan                                      [Jgwch                                      [JOPTARG                                    [Jtsort                                   [J
+_cpio                                     [Jgwip                                      [JOPTIND                                    [J_tty                                    [J
+cpio                                      [Jgwt                                       [J_options                                  [Jtty                                     [J
+_cplay                                    [Jgwta                                      [Joptions                                   [JTTY                                     [J
+cpp                                       [Jgwtls                                     [J_options_set                              [J_ttyctl                                 [J
+cpufreq-bench                             [Jgwtmv                                     [J_options_unset                            [Jttyctl                                  [J
+cpufreq-bench_plot.sh                     [Jgwtrm                                     [J_opustools                                [J_ttys                                   [J
+_cpupower                                 [Jgzexe                                     [J_osascript                                [J_tune2fs                                [J
+cpupower                                  [J_gzip                                     [J_osc                                      [Jtune2fs                                 [J
+CPUTYPE                                   [Jgzip                                      [JOSTYPE                                    [J_twidge                                 [J
+_crontab                                  [Jh2ph                                      [J_other_accounts                           [J_twisted                                [J
+_cryptsetup                               [Jh2xs                                      [J_otool                                    [Jtype                                    [J
+_cscope                                   [Jhalt                                      [Joutpsfheader                              [J_typeset                                [J
+_csplit                                   [Jhandle_completion_insecurities            [Jp                                         [Jtypeset                                 [J
+csplit                                    [Jhardlink                                  [J_pack                                     [JTZDIR                                   [J
+_cssh                                     [J_hash                                     [JPAGER                                     [Jtzselect                                [J
+_csup                                     [Jhash                                      [Jpam_namespace_helper                      [Juclampset                               [J
+_ctags                                    [J_have_glob_qual                           [Jpam_timestamp_check                       [J_udevadm                                [J
+ctags                                     [J_hdiutil                                  [J_pandoc                                   [Judevadm                                 [J
+_ctags_tags                               [J_head                                     [J_parameter                                [Judisksctl                               [J
+ctrlaltdel                                [Jhead                                      [J_parameters                               [JUID                                     [J
+ctstat                                    [JHELPDIR                                   [Jparse_git_dirty                           [Jul                                      [J
+_cu                                       [Jheroku                                    [Jparsetrigrams                             [J_ulimit                                 [J
+cupsaccept                                [J_hexdump                                  [Jpartx                                     [Julimit                                  [J
+cupsctl                                   [Jhexdump                                   [Jpasswd                                    [Julockmgr_server                         [J
+cupsd                                     [Jhg_prompt_info                            [Jpasswd.real                               [Jumask                                   [J
+CUPS_DATADIR                              [Jhistchars                                 [J_paste                                    [J_uml                                    [J
+cupsdisable                               [JHISTCHARS                                 [Jpaste                                     [Jumount                                  [J
+cupsenable                                [JHISTFILE                                  [J_patch                                    [J_umountable                             [J
+cupsfilter                                [J_history                                  [Jpatch                                     [Jumount.real                             [J
+cupsreject                                [Jhistory                                   [J_patchutils                               [Jumount.udisks2                          [J
+cupstestppd                               [J_history_complete_word                    [J_patcomps                                 [J_unace                                  [J
+_curl                                     [J_history_modifiers                        [Jpath                                      [Junalias                                 [J
+curl                                      [JHISTSIZE                                  [JPATH                                      [J_uname                                  [J
+CURRENT_BG                                [JHOME                                      [Jpathchk                                   [Juname                                   [J
+current_branch                            [J_home-manager                             [J_path_commands                            [Juname26                                 [J
+CURRENT_FG                                [Jhome-manager                              [J_path_commands_caching_policy             [Juncompress                              [J
+_cut                                      [J_host                                     [J_path_files                               [J_unexpand                               [J
+cut                                       [Jhost                                      [J_pax                                      [Junexpand                                [J
+cvlc                                      [JHOST                                      [J_pbcopy                                   [Junfunction                              [J
+_cvs                                      [Jhostid                                    [J_pbm                                      [J_unhash                                 [J
+_cvsup                                    [J_hostname                                 [J_pbuilder                                 [Junhash                                  [J
+cvt                                       [Jhostname                                  [Jpcprofiledump                             [Junicode_start                           [J
+cvtsudoers                                [J_hostnamectl                              [J_pdf                                      [Junicode_stop                            [J
+_cygcheck                                 [Jhostnamectl                               [Jpdftexi2dvi                               [J_uniq                                   [J
+_cygpath                                  [J_hosts                                    [J_pdftk                                    [Juniq                                    [J
+_cygrunsrv                                [J_htop                                     [J_perf                                     [J_unison                                 [J
+_cygserver                                [Jhwclock                                   [J_perforce                                 [J_units                                  [J
+_cygstart                                 [J_hwinfo                                   [J_perl                                     [Junix_chkpwd                             [J
+d                                         [Ji386                                      [Jperl                                      [Junix_chkpwd.real                        [J
+daemon.sh                                 [Jibus-ui-emojier-plasma                    [Jperl5.36.0                                [Junix_update                             [J
+_dak                                      [Jiceauth                                   [J_perl_basepods                            [Junlimit                                 [J
+_darcs                                    [J_iconv                                    [Jperlbug                                   [Junlink                                  [J
+_date                                     [Jiconv                                     [J_perldoc                                  [Junlzma                                  [J
+date                                      [J_iconvconfig                              [Jperldoc                                   [Junopkg                                  [J
+_date_formats                             [Jiconvconfig                               [Jperlivp                                   [Junset                                   [J
+_dates                                    [J_id                                       [J_perl_modules                             [Junsetopt                                [J
+_dbus                                     [Jid                                        [Jperlthanks                                [J_unshare                                [J
+dbus-cleanup-sockets                      [Jidea-community                            [J_pfctl                                    [Junshare                                 [J
+dbus-daemon                               [Jidle                                      [J_pfexec                                   [Juntil                                   [J
+dbus-daemon-launch-helper                 [Jidle3                                     [J_pgids                                    [Junxz                                    [J
+dbus-daemon-launch-helper.real            [Jidle3.10                                  [J_pgrep                                    [Junzip                                   [J
+dbus-launch                               [Jiecset                                    [Jpgrep                                     [Junzipsfx                                [J
+dbus-monitor                              [Jif                                        [J_php                                      [Junzstd                                  [J
+dbus-run-session                          [J_ifconfig                                 [J_physical_volumes                         [J_update-alternatives                    [J
+dbus-send                                 [Jifconfig                                  [J_pick_variant                             [Jupdate-mime-database                    [J
+DBUS_SESSION_BUS_ADDRESS                  [Jifstat                                    [J_picocom                                  [JupdateNixosConfig.sh                    [J
+dbus-test-tool                            [J_iftop                                    [Jpiconv                                    [J_update-rc.d                            [J
+dbus-update-activation-environment        [J_ignored                                  [J_pidof                                    [Jup-line-or-beginning-search             [J
+dbus-uuidgen                              [J_imagemagick                              [Jpidof                                     [Jupower                                  [J
+dcb                                       [J_inetadm                                  [J_pids                                     [J_uptime                                 [J
+_dchroot                                  [Jinfo                                      [J_pine                                     [Juptime                                  [J
+_dchroot-dsa                              [Jinfocmp                                   [J_ping                                     [Jurlglobber                              [J
+_dconf                                    [JINFOPATH                                  [Jping                                      [Jurl-quote-magic                         [J
+_dcop                                     [Jinfotocap                                 [Jping.real                                 [J_urls                                   [J
+_dcut                                     [Jinit                                      [Jpinky                                     [J_urpmi                                  [J
+_dd                                       [J_initctl                                  [J_pip                                      [J_urxvt                                  [J
+dd                                        [J_init_d                                   [Jpipestatus                                [J_usbconfig                              [J
+deallocvt                                 [Jinsmod                                    [Jpipewire                                  [J_uscan                                  [J
+_deb_architectures                        [J_install                                  [Jpipewire-aes67                            [JUSER                                    [J
+_debbugs_bugnumber                        [Jinstall                                   [Jpipewire-avb                              [Juseradd                                 [J
+_debchange                                [Jinstall-info                              [J_piuparts                                 [J_user_admin                             [J
+_debcheckout                              [Jinstmodsh                                 [Jpivot_root                                [J_user_at_host                           [J
+_deb_codenames                            [Jinteger                                   [Jpkaction                                  [Juserdbctl                               [J
+_debdiff                                  [J_in_vared                                 [Jpkcheck                                   [Juserdel                                 [J
+_deb_files                                [JINVOCATION_ID                             [Jpkexec                                    [J_user_expand                            [J
+_debfoster                                [J_invoke-rc.d                              [Jpkexec.real                               [J_user_math_func                         [J
+_deborphan                                [J_ionice                                   [J_pkg5                                     [Jusermod                                 [J
+_deb_packages                             [Jionice                                    [J_pkgadd                                   [JUSERNAME                                [J
+_debsign                                  [J_iostat                                   [J_pkg-config                               [J_users                                  [J
+_debsnap                                  [J_ip                                       [J_pkgin                                    [Jusers                                   [J
+debugfs                                   [Jip                                        [J_pkginfo                                  [J_users_on                               [J
+_debuild                                  [J_ipadm                                    [J_pkg_instance                             [Jutmpdump                                [J
+declare                                   [Jipcmk                                     [J_pkgrm                                    [Juuidd                                   [J
+_default                                  [Jipcrm                                     [J_pkgtool                                  [Juuidgen                                 [J
+default                                   [Jipcs                                      [Jpkill                                     [Juuidparse                               [J
+_defaults                                 [J_ipfw                                     [Jpkttyagent                                [Juxterm                                  [J
+_delimiters                               [Jippeveprinter                             [Jpl2pm                                     [J_valgrind                               [J
+delpart                                   [Jippfind                                   [Jplasma-apply-colorscheme                  [J_value                                  [J
+depmod                                    [Jipptool                                   [Jplasma-apply-cursortheme                  [J_values                                 [J
+_describe                                 [J_ipsec                                    [Jplasma-apply-desktoptheme                 [J_vared                                  [J
+_description                              [J_ipset                                    [Jplasma-apply-lookandfeel                  [Jvared                                   [J
+DESKTOP_SESSION                           [J_iptables                                 [Jplasma-apply-wallpaperimage               [J_vars                                   [J
+desktoptojson                             [Jipython                                   [Jplasma-interactiveconsole                 [J_vcs_info                               [J
+detect-clipboard                          [Jirqtop                                    [Jplasma-localegen-helper                   [JVCS_INFO_formats                        [J
+devlink                                   [J_irssi                                    [Jplasma-open-settings                      [J_vcs_info_hooks                         [J
+_devtodo                                  [Jirssi                                     [Jplasmapkg2                                [Jvdir                                    [J
+_df                                       [Jis-at-least                               [Jplasma_session                            [Jvdpa                                    [J
+df                                        [Jisosize                                   [Jplasmashell                               [JVENDOR                                  [J
+_dhclient                                 [J_ispell                                   [Jplasma-shutdown                           [Jversion.bat                             [J
+_dhcpinfo                                 [Jis_plugin                                 [Jplasma-systemmonitor                      [Jversion.sh                              [J
+_dict                                     [Jis_theme                                  [Jplasma_waitforname                        [Jvgcfgbackup                             [J
+_dict_words                               [J_iwconfig                                 [Jplasmawindowed                            [Jvgcfgrestore                            [J
+_diff                                     [J_jail                                     [Jpldd                                      [Jvgchange                                [J
+diff                                      [J_jails                                    [Jplipconfig                                [Jvgck                                    [J
+_diff3                                    [Jjar                                       [Jplugins                                   [Jvgconvert                               [J
+diff3                                     [Jjarsigner                                 [J_plutil                                   [Jvgcreate                                [J
+_diff_options                             [J_java                                     [J_pmap                                     [Jvgdisplay                               [J
+_diffstat                                 [Jjava                                      [Jpmap                                      [Jvgexport                                [J
+_dig                                      [Jjavac                                     [Jpod2html                                  [Jvgextend                                [J
+digest.bat                                [J_java_class                               [Jpod2man                                   [Jvgimport                                [J
+digest.sh                                 [Jjavadoc                                   [Jpod2texi                                  [Jvgimportclone                           [J
+dir                                       [JJAVA_HOME                                 [Jpod2text                                  [Jvgimportdevices                         [J
+dircolors                                 [Jjavap                                     [Jpod2usage                                 [Jvgmerge                                 [J
+_directories                              [Jjcmd                                      [Jpodchecker                                [Jvgmknodes                               [J
+_directory_stack                          [Jjconsole                                  [Jpolkit-agent-helper-1                     [Jvgreduce                                [J
+_dir_list                                 [Jjdb                                       [Jpolkit-agent-helper-1.real                [Jvgremove                                [J
+dirmngr                                   [Jjdeprscan                                 [J_pon                                      [Jvgrename                                [J
+dirmngr-client                            [Jjdeps                                     [Jpopd                                      [Jvgs                                     [J
+dirname                                   [Jjenv_prompt_info                          [Jportablectl                               [Jvgscan                                  [J
+_dirs                                     [J_jexec                                    [J_portaudit                                [Jvgsplit                                 [J
+dirs                                      [Jjfr                                       [J_portlint                                 [J_vi                                     [J
+dirstack                                  [Jjhsdb                                     [J_portmaster                               [Jvi                                      [J
+_disable                                  [Jjimage                                    [J_ports                                    [Jview                                    [J
+disable                                   [Jjinfo                                     [J_portsnap                                 [Jvigr                                    [J
+dis_aliases                               [Jjlink                                     [J_postfix                                  [J_vim                                    [J
+discord                                   [J_jls                                      [J_postgresql                               [Jvim                                     [J
+Discord                                   [Jjmap                                      [Jpostman                                   [J_vim-addons                             [J
+dis_functions                             [Jjmod                                      [J_postpatcomps                             [Jvimdiff                                 [J
+dis_galiases                              [J_jobs                                     [J_postscript                               [Jvi_mode_prompt_info                     [J
+disown                                    [Jjobs                                      [J_powerd                                   [Jvimtutor                                [J
+_dispatch                                 [J_jobs_bg                                  [Jpoweroff                                  [Jvipw                                    [J
+DISPLAY                                   [J_jobs_builtin                             [Jpowerprofilesctl                          [Jvirtualenv_prompt_info                  [J
+dis_saliases                              [J_jobs_fg                                  [Jppdc                                      [J_visudo                                 [J
+_django                                   [J_joe                                      [Jppdhtml                                   [Jvisudo                                  [J
+_dkms                                     [J_join                                     [Jppdi                                      [Jvlc                                     [J
+_dladm                                    [Jjoin                                      [Jppdmerge                                  [Jvlc-wrapper                             [J
+_dlocate                                  [J_jot                                      [Jppdpo                                     [Jvlock                                   [J
+_dmesg                                    [J_journalctl                               [J_pr                                       [Jvmcore-dmesg                            [J
+dmesg                                     [Jjournalctl                                [Jpr                                        [J_vmctl                                  [J
+_dmidecode                                [JJOURNAL_STREAM                            [Jprecmd_functions                          [J_vmstat                                 [J
+dmsetup                                   [Jjpackage                                  [J_precommand                               [Jvmstat                                  [J
+dmstats                                   [Jjps                                       [Jpreexec_functions                         [J_vnc                                    [J
+_dnf                                      [J_jq                                       [J_prefix                                   [J_volume_groups                          [J
+dnsdomainname                             [Jjq                                        [J_print                                    [J_vorbis                                 [J
+_dns_types                                [Jjrunscript                                [Jprint                                     [J_vpnc                                   [J
+do                                        [Jjshell                                    [J_printenv                                 [Jvrun                                    [J
+_doas                                     [Jjson_pp                                   [Jprintenv                                  [J_vserver                                [J
+_docker                                   [Jjstack                                    [J_printers                                 [J_w                                      [J
+docker                                    [Jjstat                                     [Jprintf                                    [Jw                                       [J
+__docker_arguments                        [Jjstatd                                    [Jprivate                                   [J_w3m                                    [J
+__docker_caching_policy                   [Jkaccess                                   [Jprlimit                                   [J_wait                                   [J
+__docker_checkpoint_commands              [Jkactivities-cli                           [J_process_names                            [Jwait                                    [J
+__docker_checkpoint_subcommand            [Jkapplymousetheme                          [J_procstat                                 [J_wajig                                  [J
+__docker_commands                         [Jkbdinfo                                   [JPROFILEHOME                               [J_wakeup_capable_devices                 [J
+__docker_complete_containers              [Jkbd_mode                                  [J_prompt                                   [Jwall                                    [J
+__docker_complete_containers_ids          [Jkbdrate                                   [Jprompt                                    [J_wanna-build                            [J
+__docker_complete_containers_names        [Jkbroadcastnotification                    [JPROMPT                                    [J_wanted                                 [J
+__docker_complete_contexts                [Jkbuildsycoca5                             [JPROMPT2                                   [J_watch                                  [J
+__docker_complete_detach_keys             [Jkbxutil                                   [JPROMPT3                                   [Jwatch                                   [J
+__docker_complete_disabled_plugins        [Jkcminit                                   [JPROMPT4                                   [JWATCH                                   [J
+__docker_complete_enabled_plugins         [Jkcminit_startup                           [Jprompt_aws                                [Jwatchgnupg                              [J
+__docker_complete_events_filter           [Jkcmshell5                                 [Jprompt_bzr                                [J_watch-snoop                            [J
+__docker_complete_images                  [Jkcm-touchpad-list-devices                 [Jprompt_context                            [J_wc                                     [J
+__docker_complete_images_filters          [Jkcolorschemeeditor                        [Jprompt_dir                                [Jwc                                      [J
+__docker_complete_info_plugins            [Jkcookiejar5                               [Jprompt_end                                [Jwdctl                                   [J
+__docker_complete_log_drivers             [JKDE_APPLICATIONS_AS_SCOPE                 [Jprompt_git                                [J_webbrowser                             [J
+__docker_complete_log_options             [J_kdeconnect                               [Jprompt_hg                                 [Jweechat                                 [J
+__docker_complete_manager_nodes           [Jkdecp                                     [Jprompt_segment                            [Jweechat-headless                        [J
+__docker_complete_networks                [Jkdecp5                                    [Jprompt_status                             [J_wget                                   [J
+__docker_complete_networks_ids            [Jkded5                                     [Jprompt_virtualenv                         [Jwget                                    [J
+__docker_complete_networks_names          [JKDEDIRS                                   [Jprotocoltojson                            [Jwhatis                                  [J
+__docker_complete_nodes                   [JKDE_FULL_SESSION                          [J_prove                                    [Jwhence                                  [J
+__docker_complete_nodes_ids               [Jkde-geo-uri-handler                       [Jprove                                     [Jwhere                                   [J
+__docker_complete_nodes_names             [Jkde-inhibit                               [J_prstat                                   [J_whereis                                [J
+__docker_complete_pending_nodes           [Jkdeinit5                                  [J_ps                                       [Jwhereis                                 [J
+__docker_complete_pid                     [Jkdeinit5_shutdown                         [Jps                                        [J_which                                  [J
+__docker_complete_plugins                 [Jkdeinit5_wrapper                          [JPS1                                       [Jwhich                                   [J
+__docker_complete_prune_filters           [Jkdemv                                     [J_ps1234                                   [Jwhich-command                           [J
+__docker_complete_ps_filters              [Jkdemv5                                    [JPS2                                       [Jwhile                                   [J
+__docker_complete_repositories            [Jkde-open                                  [JPS3                                       [J_who                                    [J
+__docker_complete_repositories_with_tags  [Jkde-open5                                 [JPS4                                       [Jwho                                     [J
+__docker_complete_running_containers      [JKDE_SESSION_UID                           [J_pscp                                     [Jwhoami                                  [J
+__docker_complete_runtimes                [JKDE_SESSION_VERSION                       [Jpsfaddtable                               [J_whois                                  [J
+__docker_complete_search_filters          [Jkdesu                                     [Jpsfgettable                               [J_widgets                                [J
+__docker_complete_secrets                 [Jkde-systemd-start-condition               [Jpsfstriptable                             [Jwidgets                                 [J
+__docker_complete_services                [J_kdump                                    [Jpsfxtable                                 [J_wiggle                                 [J
+__docker_complete_services_ids            [Jkeditfiletype                             [J_pspdf                                    [JWINDOWID                                [J
+__docker_complete_services_names          [Jkeditfiletype5                            [J_psutils                                  [J_wipefs                                 [J
+__docker_complete_stacks                  [Jkexec                                     [Jpsvar                                     [Jwipefs                                  [J
+__docker_complete_stopped_containers      [Jkey                                       [JPSVAR                                     [Jwireplumber                             [J
+__docker_complete_volumes                 [JKEYBOARD_HACK                             [Jptar                                      [JWORDCHARS                               [J
+__docker_complete_worker_nodes            [Jkeymaps                                   [Jptardiff                                  [Jwork_in_progress                        [J
+__docker_container_commands               [JKEYTIMEOUT                                [Jptargrep                                  [J_wpa_cli                                [J
+__docker_container_subcommand             [Jkeytool                                   [J_ptree                                    [Jwpa_cli                                 [J
+__docker_context_commands                 [J_kfmclient                                [J_ptx                                      [Jwpa_passphrase                          [J
+__docker_context_subcommand               [Jkfontinst                                 [Jptx                                       [Jwpa_supplicant                          [J
+_dockerd                                  [Jkfontview                                 [J_pump                                     [Jwpctl                                   [J
+dockerd                                   [Jkglobalaccel5                             [Jpushd                                     [Jwpexec                                  [J
+dockerd-rootless                          [Jkiconfinder5                              [Jpushln                                    [Jwrite                                   [J
+__docker_get_containers                   [J_kill                                     [J_putclip                                  [JX                                       [J
+__docker_get_log_options                  [Jkill                                      [J_pv                                       [Jx86_64                                  [J
+__docker_get_networks                     [J_killall                                  [Jpvchange                                  [J_xargs                                  [J
+DOCKER_HOST                               [Jkinfocenter                               [Jpvck                                      [Jxargs                                   [J
+__docker_image_commands                   [Jkioclient                                 [Jpvcreate                                  [J_x_arguments                            [J
+__docker_image_subcommand                 [Jkioclient5                                [Jpvdisplay                                 [J_xauth                                  [J
+__docker_network_commands                 [J_kld                                      [Jpvmove                                    [Jxauth                                   [J
+__docker_network_complete_ls_filters      [Jklipper                                   [Jpvremove                                  [JXAUTHORITY                              [J
+__docker_network_subcommand               [Jkmenuedit                                 [Jpvresize                                  [J_xautolock                              [J
+__docker_node_commands                    [Jkmimetypefinder                           [Jpvs                                       [J_x_borderwidth                          [J
+__docker_node_complete_ls_filters         [Jkmimetypefinder5                          [Jpvscan                                    [J_xclip                                  [J
+__docker_node_complete_ps_filters         [Jkmod                                      [Jpw-cat                                    [Jxclip                                   [J
+__docker_nodes                            [Jknetattach                                [Jpwck                                      [Jxclip-copyfile                          [J
+__docker_node_subcommand                  [Jknewstuff-dialog                          [Jpw-cli                                    [Jxclip-cutfile                           [J
+__docker_plugin_commands                  [J_knock                                    [Jpwconv                                    [Jxclip-pastefile                         [J
+__docker_plugin_complete_ls_filters       [Jkoi8rxterm                                [Jpwd                                       [J_xcode-select                           [J
+__docker_plugins                          [Jkonsole                                   [JPWD                                       [J_x_color                                [J
+__docker_plugin_subcommand                [JKONSOLE_DBUS_SERVICE                      [Jpw-dot                                    [J_x_colormapid                           [J
+__docker_search                           [JKONSOLE_DBUS_SESSION                      [Jpw-dsdplay                                [J_x_cursor                               [J
+__docker_secret_commands                  [JKONSOLE_DBUS_WINDOW                       [Jpw-dump                                   [JXCURSOR_PATH                            [J
+__docker_secrets                          [Jkonsoleprofile                            [Jpwdx                                      [JXCURSOR_SIZE                            [J
+__docker_secret_subcommand                [JKONSOLE_VERSION                           [J_pwgen                                    [JXCURSOR_THEME                           [J
+__docker_service_commands                 [JKPACKAGE_DEP_RESOLVERS_PATH               [Jpwhistory_helper                          [JXDG_CONFIG_DIRS                         [J
+__docker_service_complete_ls_filters      [Jkpackagelauncherqml                       [Jpw-link                                   [JXDG_CURRENT_DESKTOP                     [J
+__docker_service_complete_placement_pref  [Jkpackagetool5                             [Jpw-loopback                               [JXDG_DATA_DIRS                           [J
+__docker_service_complete_ps_filters      [J_kpartx                                   [Jpw-metadata                               [Jxdg-desktop-icon                        [J
+__docker_services                         [Jkquitapp5                                 [Jpw-mididump                               [Jxdg-desktop-menu                        [J
+__docker_service_subcommand               [Jkreadconfig5                              [Jpw-midiplay                               [JXDG_DESKTOP_PORTAL_DIR                  [J
+__docker_stack_commands                   [Jkrunner                                   [Jpw-midirecord                             [Jxdg-email                               [J
+__docker_stack_complete_ps_filters        [Jkrunner-plugininstaller                   [Jpw-mon                                    [Jxdg-icon-resource                       [J
+__docker_stack_complete_services_filters  [Jkscreen-console                           [Jpw-play                                   [Jxdg-mime                                [J
+__docker_stacks                           [Jkscreen-doctor                            [Jpw-profiler                               [Jxdg-open                                [J
+__docker_stack_subcommand                 [Jkscreenlocker_greet                       [Jpw-record                                 [JXDG_RUNTIME_DIR                         [J
+__docker_subcommand                       [Jkscreenlocker_greet.real                  [Jpw-reserve                                [Jxdg-screensaver                         [J
+__docker_swarm_commands                   [Jkshell5                                   [Jpw-top                                    [JXDG_SEAT                                [J
+__docker_swarm_subcommand                 [Jksmserver                                 [Jpwunconv                                  [JXDG_SEAT_PATH                           [J
+__docker_system_commands                  [Jksplashqml                                [Jpw-v4l2                                   [JXDG_SESSION_CLASS                       [J
+__docker_system_subcommand                [Jkstart                                    [Jpy                                        [JXDG_SESSION_DESKTOP                     [J
+__docker_volume_commands                  [Jkstart5                                   [Jpyclean                                   [JXDG_SESSION_ID                          [J
+__docker_volume_complete_ls_filters       [Jkstatsviewer                              [J_pydoc                                    [JXDG_SESSION_PATH                        [J
+__docker_volume_subcommand                [Jksvgtopng                                 [Jpydoc                                     [JXDG_SESSION_TYPE                        [J
+dolphin                                   [Jksvgtopng5                                [Jpydoc3                                    [Jxdg-settings                            [J
+domainname                                [Jksystemstats                              [Jpydoc3.10                                 [Jxdg-user-dir                            [J
+_domains                                  [Jktelnetservice5                           [Jpyenv_prompt_info                         [Jxdg-user-dirs-update                    [J
+done                                      [J_ktrace                                   [Jpyfind                                    [JXDG_VTNR                                [J
+_dos2unix                                 [J_ktrace_points                            [Jpygrep                                    [J_x_display                              [J
+dosfsck                                   [Jktraderclient5                            [Jpyserver                                  [J_xdvi                                   [J
+dosfslabel                                [Jktrash5                                   [J_python                                   [Jxembedsniproxy                          [J
+down-line-or-beginning-search             [J_kvno                                     [Jpython                                    [JXephyr                                  [J
+_dpatch-edit-patch                        [Jkwalletd5                                 [Jpython3                                   [J_x_extension                            [J
+_dpkg                                     [Jkwalletmanager5                           [Jpython3.10                                [J_xfig                                   [J
+_dpkg-buildpackage                        [Jkwallet-query                             [Jpython3.10-config                         [J_x_font                                 [J
+_dpkg-cross                               [Jkwin_wayland                              [Jpython3-config                            [J_xft_fonts                              [J
+_dpkg-repack                              [Jkwin_wayland.real                         [Jpython-config                             [J_x_geometry                             [J
+_dpkg_source                              [Jkwin_wayland_wrapper                      [J_python_modules                           [J_xinput                                 [J
+_dput                                     [Jkwin_x11                                  [Jpyuserpaths                               [Jxinput                                  [J
+_drill                                    [Jkwrapper5                                 [Jpzstd                                     [J_x_keysym                               [J
+_dropbox                                  [Jkwriteconfig5                             [Jqbittorrent                               [J_xloadimage                             [J
+_dscverify                                [Jkwrited                                   [J_qdbus                                    [J_x_locale                               [J
+_dsh                                      [Jl                                         [Jqdbus                                     [Jxlsclients                              [J
+_dtrace                                   [Jla                                        [Jqdbusviewer                               [J_xmlsoft                                [J
+_dtruss                                   [JLANG                                      [J_qemu                                     [J_xmlstarlet                             [J
+_du                                       [Jlanginfo                                  [Jqimgv                                     [J_xmms2                                  [J
+du                                        [JLANGUAGE                                  [J_qiv                                      [J_x_modifier                             [J
+_dumpadm                                  [J_last                                     [JQML2_IMPORT_PATH                          [J_xmodmap                                [J
+dumpe2fs                                  [Jlast                                      [JQT_AUTO_SCREEN_SCALE_FACTOR               [J_x_name                                 [J
+_dumper                                   [Jlastb                                     [Jqtpaths                                   [JXnest                                   [J
+dumpkeys                                  [J_lastcomp                                 [J_qtplay                                   [JXorg                                    [J
+_dupload                                  [Jlastlog                                   [JQT_PLUGIN_PATH                            [J_xournal                                [J
+_dvi                                      [Jld                                        [JQTWEBKIT_PLUGIN_PATH                      [J_xpdf                                   [J
+dwp                                       [J_ldap                                     [J_quilt                                    [Jxprop                                   [J
+_dynamic_directory_name                   [Jldattach                                  [Jqvlc                                      [J_xrandr                                 [J
+e2freefrag                                [Jld.bfd                                    [Jr                                         [Jxrandr                                  [J
+e2fsck                                    [J_ldconfig                                 [J_rake                                     [Jxrdb                                    [J
+e2image                                   [Jldconfig                                  [JRANDOM                                    [J_x_resource                             [J
+_e2label                                  [J_ldd                                      [Jranger                                    [J_xscreensaver                           [J
+e2label                                   [Jldd                                       [J_ranlib                                   [J_x_selection_timeout                    [J
+e2mmpstatus                               [J_ld_debug                                 [Jranlib                                    [J_xset                                   [J
+e2scrub                                   [Jld.gold                                   [J_rar                                      [Jxset                                    [J
+e2scrub_all                               [Jld.so                                     [Jrarp                                      [Jxsetroot                                [J
+e2undo                                    [J_less                                     [Jrarpd                                     [Jxsubpp                                  [J
+e4crypt                                   [Jless                                      [Jrbenv_prompt_info                         [J_xt_arguments                           [J
+e4defrag                                  [JLESS                                      [J_rcctl                                    [J_xterm                                  [J
+ebrowse                                   [Jlessecho                                  [J_rclone                                   [Jxterm                                   [J
+_ecasound                                 [Jlesskey                                   [J_rcs                                      [J_x_title                                [J
+echo                                      [JLESSKEYIN_SYSTEM                          [Jrd                                        [Jxtrace                                  [J
+_echotc                                   [JLESSOPEN                                  [J_rdesktop                                 [J_xt_session_id                          [J
+echotc                                    [Jlet                                       [Jrdisc                                     [J_x_utils                                [J
+_echoti                                   [Jlexgrog                                   [Jrdma                                      [J_xv                                     [J
+echoti                                    [J_lha                                      [J_read                                     [JXvfb                                    [J
+_ed                                       [Jlibexec                                   [Jread                                      [J_x_visual                               [J
+edit-command-line                         [JLIBEXEC_PATH                              [J_read_comp                                [J_x_window                               [J
+EDITOR                                    [Jlibnetcfg                                 [J_readelf                                  [J_xwit                                   [J
+EGID                                      [Jlibreoffice                               [Jreadelf                                   [J_xxd                                    [J
+egrep                                     [J_libvirt                                  [J_readlink                                 [Jxxd                                     [J
+eject                                     [J_lighttpd                                 [Jreadlink                                  [J_xz                                     [J
+_elfdump                                  [J_limit                                    [JREADNULLCMD                               [Jxz                                      [J
+elfedit                                   [Jlimit                                     [Jreadonly                                  [Jxzcat                                   [J
+elif                                      [J_limits                                   [Jreadprofile                               [Jxzcmp                                   [J
+_elinks                                   [JLINES                                     [J_readshortcut                             [Jxzdec                                   [J
+else                                      [Jlink                                      [Jrealpath                                  [Jxzdiff                                  [J
+emacs                                     [J_links                                    [Jreboot                                    [Jxzegrep                                 [J
+emacs-28.2                                [J_lintian                                  [J_rebootin                                 [Jxzfgrep                                 [J
+emacsclient                               [Jlinux32                                   [J_redirect                                 [Jxzgrep                                  [J
+_email_addresses                          [Jlinux64                                   [J_regex_arguments                          [Jxzless                                  [J
+_emulate                                  [J_list                                     [Jregexp-replace                            [Jxzmore                                  [J
+emulate                                   [J_list_files                               [J_regex_words                              [J_yafc                                   [J
+emvi                                      [JLISTMAX                                   [Jrehash                                    [J_yast                                   [J
+_enable                                   [Jll                                        [J_remote_files                             [Jyes                                     [J
+enable                                    [J_lldb                                     [Jrename                                    [J_yodl                                   [J
+enc2xs                                    [J_ln                                       [J_renice                                   [J_yp                                     [J
+encguess                                  [Jln                                        [Jrenice                                    [Jypdomainname                            [J
+end                                       [Jlnstat                                    [Jrepeat                                    [J_yum                                    [J
+_enscript                                 [J_loadkeys                                 [J_reprepro                                 [J_zargs                                  [J
+_entr                                     [Jloadkeys                                  [J_requested                                [J_zattr                                  [J
+_env                                      [Jloadunimap                                [Jreset                                     [J_zcalc                                  [J
+env                                       [Jlocal                                     [Jreset_color                               [J_zcalc_line                             [J
+env_default                               [J_locale                                   [Jresize                                    [J_zcat                                   [J
+_eog                                      [Jlocale                                    [Jresize2fs                                 [Jzcat                                    [J
+_equal                                    [JLOCALE_ARCHIVE                            [Jresizecons                                [Jzcmp                                    [J
+esac                                      [J_localectl                                [Jresizepart                                [J_zcompile                               [J
+_espeak                                   [Jlocalectl                                 [Jresolvconf                                [Jzcompile                                [J
+_etags                                    [J_localedef                                [J_resolvectl                               [Jzdiff                                   [J
+etags                                     [Jlocaledef                                 [Jresolvectl                                [J_zdump                                  [J
+__ETC_PROFILE_DONE                        [J_locales                                  [J_retrieve_cache                           [Jzdump                                   [J
+__ETC_ZSHENV_SOURCED                      [J_locate                                   [J_retrieve_mac_apps                        [J_zeal                                   [J
+__ETC_ZSHRC_SOURCED                       [Jlog                                       [Jreturn                                    [J_zed                                    [J
+_ethtool                                  [J_logger                                   [Jrev                                       [Jzegrep                                  [J
+EUID                                      [Jlogger                                    [Jrfkill                                    [Jzfgrep                                  [J
+eval                                      [J_logical_volumes                          [Jrgmvi                                     [Jzforce                                  [J
+_evince                                   [Jlogin                                     [J_ri                                       [Jzformat                                 [J
+ex                                        [J_login_classes                            [Jrifle                                     [J_zfs                                    [J
+_exec                                     [J_loginctl                                 [J_rlogin                                   [J_zfs_dataset                            [J
+exec                                      [Jloginctl                                  [J_rm                                       [J_zfs_pool                               [J
+exit                                      [Jlogname                                   [Jrm                                        [J_zftp                                   [J
+_expand                                   [JLOGNAME                                   [J_rmdir                                    [Jzgrep                                   [J
+expand                                    [Jlogout                                    [Jrmdir                                     [Jzic                                     [J
+_expand_alias                             [Jlogoutd                                   [Jrmiregistry                               [J_zip                                    [J
+_expand_word                              [Jlogsave                                   [Jrmmod                                     [Jzip                                     [J
+expiry                                    [J_look                                     [Jrmvi                                      [Jzipcloak                                [J
+export                                    [Jlook                                      [Jrnano                                     [Jzipdetails                              [J
+expr                                      [Jlookandfeeltool                           [J_route                                    [Jzipgrep                                 [J
+_extensions                               [J_losetup                                  [Jroute                                     [Jzipinfo                                 [J
+_external_pwds                            [Jlosetup                                   [Jroutel                                    [Jzipnote                                 [J
+factor                                    [Jlowntfs-3g                                [J_routing_domains                          [Jzipsplit                                [J
+faillock                                  [J_lp                                       [J_routing_tables                           [J_zle                                    [J
+faillog                                   [Jlp                                        [J_rpm                                      [Jzle                                     [J
+_fakeroot                                 [Jlpadmin                                   [J_rrdtool                                  [Jzle_bracketed_paste                     [J
+fallocate                                 [Jlpc                                       [J_rsync                                    [Jzle-line-finish                         [J
+false                                     [Jlpinfo                                    [Jrsync                                     [Jzle-line-init                           [J
+fatlabel                                  [Jlpmove                                    [Jrsync-ssl                                 [Jzless                                   [J
+_fbsd_architectures                       [Jlpoptions                                 [Jrtacct                                    [J_zlogin                                 [J
+_fbsd_device_types                        [Jlpq                                       [Jrtcwake                                   [J_zmodload                               [J
+_fc                                       [Jlpr                                       [Jrtkitctl                                  [Jzmodload                                [J
+fc                                        [Jlprm                                      [Jrtmon                                     [Jzmore                                   [J
+fc-cache                                  [Jlpstat                                    [Jrtstat                                    [J_zmv                                    [J
+fc-cat                                    [J_ls                                       [J_rubber                                   [Jznew                                    [J
+fc-conflist                               [Jls                                        [J_ruby                                     [J_zoneadm                                [J
+fc-list                                   [Jlsa                                       [Jruby_prompt_info                          [J_zones                                  [J
+fc-match                                  [J_lsattr                                   [Jruncon                                    [Jzoom                                    [J
+fc-pattern                                [Jlsattr                                    [J_run-help                                 [Jzoom-us                                 [J
+fc-query                                  [J_lsblk                                    [Jrun-help                                  [J_zparseopts                             [J
+fc-scan                                   [Jlsblk                                     [J_runit                                    [Jzparseopts                              [J
+fc-validate                               [J_lscfg                                    [Jrunuser                                   [J_zpty                                   [J
+fdisk                                     [JLS_COLORS                                 [Jrview                                     [Jzramctl                                 [J
+_feh                                      [JLSCOLORS                                  [Jrvim                                      [Jzrecompile                              [J
+_fetch                                    [Jlscpu                                     [Jrvlc                                      [Jzregexparse                             [J
+_fetchmail                                [J_lsdev                                    [Jrvm_prompt_info                           [J_zsh                                    [J
+_ffmpeg                                   [Jlsfd                                      [Jsaliases                                  [Jzsh                                     [J
+fg                                        [Jlsipc                                     [J_samba                                    [JZSH                                     [J
+FG                                        [Jlsirq                                     [J_savecore                                 [JZSH_ARGZERO                             [J
+fg_bold                                   [Jlslocks                                   [JSAVEHIST                                  [JZSH_CACHE_DIR                           [J
+fgconsole                                 [Jlslogins                                  [J_say                                      [JZSH_COMPDUMP                            [J
+fg_no_bold                                [J_lslv                                     [Jsbase                                     [JZSH_CUSTOM                              [J
+fgrep                                     [Jlsmem                                     [J_sbuild                                   [J_zsh-mime-handler                       [J
+fi                                        [Jlsmod                                     [Jscalar                                    [JZSH_NAME                                [J
+_figlet                                   [J_lsns                                     [Jscalc                                     [JZSH_PATCHLEVEL                          [J
+fignore                                   [Jlsns                                      [J_sccs                                     [Jzsh_scheduled_events                    [J
+FIGNORE                                   [J_lsof                                     [J_sched                                    [Jzsh_stats                               [J
+_file_descriptors                         [J_lspv                                     [Jsched                                     [JZSH_THEME                               [J
+_file_flags                               [J_lsusb                                    [J_schedtool                                [JZSH_THEME_GIT_PROMPT_CLEAN              [J
+filefrag                                  [J_lsvg                                     [J_schroot                                  [JZSH_THEME_GIT_PROMPT_DIRTY              [J
+_file_modes                               [J_ltrace                                   [J_scl                                      [JZSH_THEME_GIT_PROMPT_PREFIX             [J
+_files                                    [J_lua                                      [J_scons                                    [JZSH_THEME_GIT_PROMPT_SUFFIX             [J
+_file_systems                             [J_luarocks                                 [Jscp                                       [JZSH_THEME_RUBY_PROMPT_PREFIX            [J
+fincore                                   [Jlvchange                                  [J_screen                                   [JZSH_THEME_RUBY_PROMPT_SUFFIX            [J
+_find                                     [Jlvconvert                                 [Jscreendump                                [JZSH_THEME_RVM_PROMPT_OPTIONS            [J
+find                                      [Jlvcreate                                  [JSCREEN_NO                                 [JZSH_THEME_TERM_TAB_TITLE_IDLE           [J
+findfs                                    [Jlvdisplay                                 [J_script                                   [JZSH_THEME_TERM_TITLE_IDLE               [J
+_findmnt                                  [Jlvextend                                  [Jscript                                    [JZSH_VERSION                             [J
+findmnt                                   [Jlvm                                       [Jscriptlive                                [J_zsocket                                [J
+_find_net_interfaces                      [Jlvmconfig                                 [Jscriptreplay                              [Jzstat                                   [J
+_finger                                   [Jlvmdevices                                [Jscrot                                     [Jzstd                                    [J
+_fink                                     [Jlvmdiskscan                               [J_scselect                                 [Jzstdcat                                 [J
+firefox                                   [Jlvmdump                                   [J_sc_usage                                 [Jzstdgrep                                [J
+_first                                    [Jlvm_import_vdo                            [J_scutil                                   [Jzstdless                                [J
+_flac                                     [Jlvmsadc                                   [Jsddm                                      [Jzstdmt                                  [J
+_flex                                     [Jlvmsar                                    [Jsddm-greeter                              [J_zstyle                                 [J
+float                                     [Jlvreduce                                  [J_sd_hosts_or_user_at_host                 [Jzstyle                                  [J
+flock                                     [Jlvremove                                  [Jsdiff                                     [J_ztodo                                  [J
+_floppy                                   [Jlvrename                                  [J_sd_machines                              [J_zypper                                 [J
+_flowadm                                  [Jlvresize                                  [J_sd_outputmodes                           [J                                        
+_fmadm                                    [Jlvs                                       [Jsdraw                                     [J                                        
+[0m[27m[24m[J[39m[0m[49m[40m[39m adrianaris@nixos [44m[30m[30m ~/treaba/fsopart12/script-answers [43m[34m[30m  main [49m[33m[39m docker exec -it[K[1C       container ls[?1l>[?2004l
+]2;docker container ls]1;dockerCONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS                                         NAMES
+2b49e25a5f2e   nginx     "/docker-entrypoint.…"   19 minutes ago   Up 19 minutes   0.0.0.0:8080->80/tcp, :::8080->80/tcp         vibrant_pare
+1e4bee4a62ad   mongo     "docker-entrypoint.s…"   2 hours ago      Up 2 hours      0.0.0.0:3456->27017/tcp, :::3456->27017/tcp   todo-backend-mongo-1
+[1m[7m%[27m[1m[0m                                                                                                                                                                           ]2;adrianaris@nixos:~/treaba/fsopart12/script-answers]1;..cript-answers[0m[27m[24m[J[39m[0m[49m[40m[39m adrianaris@nixos [44m[30m[30m ~/treaba/fsopart12/script-answers [43m[34m[30m  main [49m[33m[39m [K[?1h=[?2004hddocker exec -it to
+[J[0mtomcat-juli.jar       [Jtomcat-native.tar.gz  [Jtool-wrapper.bat      [Jtool-wrapper.sh       [Jtop                   [Jtouch               [J[A[0m[27m[24m[0m[39m[49m[65Cdocker exec -it to[K[0m[39m[49mdo
+[J[J[0m_devtodo  [J_todo.sh  [J_ztodo  [J[A[0m[27m[24m[0m[39m[49m[65Cdocker exec -it todo[K[0m[39m[49m-backend-mongo-1 bash[?1l>[?2004l
+[J]2;docker exec -it todo-backend-mongo-1 bash]1;docker[?2004hroot@1e4bee4a62ad:/# mongosh
+[?2004l]0;mongosh mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	6415b572f43a82311b7c1fb1
+Connecting to:		[1m[32mmongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.8.0[0m
+Using MongoDB:		6.0.5
+[1m[33mUsing Mongosh[0m:		1.8.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the [1mdisableTelemetry()[0m command.
+
+[1G[0J [1G[1G[0Jtest> [7Gshow dbs
+Uncaught [1m[31mMongoServerError[0m: command listDatabases requires authentication
+[1G[0Jtest> [7Gquit
+[?2004hroot@1e4bee4a62ad:/# mongosh -up
+[?2004l]0;mongosh mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	6415b59d301b93d8fa245fff
+Connecting to:		[1m[32mmongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.8.0[0m
+Using MongoDB:		6.0.5
+[1m[33mUsing Mongosh[0m:		1.8.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+[1G[0J [1G[1G[0Jtest> [7Gshow dbs
+Uncaught [1m[31mMongoServerError[0m: command listDatabases requires authentication
+[1G[0Jtest> [7Gquit
+[?2004hroot@1e4bee4a62ad:/# mongosh u -u root -p example
+[?2004l]0;mongosh mongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	6415b5c0feb11b22720c9bec
+Connecting to:		[1m[32mmongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.8.0[0m
+Using MongoDB:		6.0.5
+[1m[33mUsing Mongosh[0m:		1.8.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+[1G[0J [1G[1m[33m------[0m
+   [1m[33mThe server generated these startup warnings when booting[0m
+   2023-03-18T10:52:25.254+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2023-03-18T10:52:26.660+00:00: vm.max_map_count is too low
+[1m[33m------[0m
+
+[1m[33m------[0m
+   Enable MongoDB's free cloud-based monitoring service, which will then receive and display
+   metrics about your deployment (disk utilization, CPU, operation statistics, etc).
+   
+   The monitoring data will be available on a MongoDB website with a unique URL accessible to you
+   and anyone you share the URL with. MongoDB may use this information to make product
+   improvements and to suggest MongoDB products and deployment options to you.
+   
+   To enable free monitoring, run the following command: db.enableFreeMonitoring()
+   To permanently disable this reminder, run the following command: db.disableFreeMonitoring()
+[1m[33m------[0m
+
+[1G[0Jtest> [7Gshow e[1G[0Jtest> show [12Gdbs
+[1madmin[0m         100.00 KiB
+[1mconfig[0m         84.00 KiB
+[1mlocal[0m          72.00 KiB
+[1mthe_database[0m   40.00 KiB
+[1G[0Jtest> [7Guse the_database
+switched to db the_database
+[1G[0Jthe_database> [15Gshow collections
+[1mtodos[0m
+[1G[0Jthe_database> [15Gdb.todos.find({})
+[
+  {
+    _id: ObjectId("641597e7c373156349ce2a1a"),
+    text: [32m'Write code'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("641597e7c373156349ce2a1b"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gdb.todos.create({{[1G[0Jthe_database> db.todos.create({[32G})[1D[1G[0Jthe_database> db.todos.create[44m([49m{})[33G[1D[1G[0Jthe_database> db.todos.create([44m{[49m})[32G[1G[0Jthe_database> db.todos.create([44m{[49mt})[33G[1G[0Jthe_database> db.todos.create([44m{[49mte})[34G[1G[0Jthe_database> db.todos.create([44m{[49mtex})[35G[1G[0Jthe_database> db.todos.create([44m{[49mtext})[36G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m:})[37G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: })[38G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"})[39m[39G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"i})[39m[40G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"in})[39m[41G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"i})[39m[40G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"})[39m[39G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"I})[39m[40G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"In})[39m[41G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Inc})[39m[42G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Incr})[39m[43G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Incre})[39m[44G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increa})[39m[45G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increas})[39m[46G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase})[39m[47G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase })[39m[48G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase t})[39m[49G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase th})[39m[50G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the})[39m[51G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the })[39m[52G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the n})[39m[53G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the nu})[39m[54G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the num})[39m[55G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the numb})[39m[56G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the numbe})[39m[57G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number})[39m[58G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number })[39m[59G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number o})[39m[60G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of})[39m[61G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of })[39m[62G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of t})[39m[63G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of to})[39m[64G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of too})[39m[65G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tool})[39m[66G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools})[39m[67G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools })[39m[68G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools i})[39m[69G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in})[39m[70G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in })[39m[71G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in m})[39m[72G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my})[39m[73G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my })[39m[74G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my t})[39m[75G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my to})[39m[76G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my too})[39m[77G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my tool})[39m[78G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolb})[39m[79G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolbe})[39m[80G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolbel})[39m[81G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolbelt})[39m[82G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m})[83G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m,})[84G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, })[85G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, d})[86G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [36mdo[39m})[87G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, don})[88G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, done})[89G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m:})[90G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: })[91G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [32m'})[39m[92G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: })[91G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: f})[92G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: fa})[93G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: fal})[94G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: fals})[95G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m})[96G[1G[0Jthe_database> db.todos.create([44m{[49m[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m })[97G[2C[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m })[99G
+Uncaught [1m[31mTypeError[0m: db.todos.create is not a function
+[1G[0Jthe_database> [15Gdb.todos.insertOne()[1D[1G[0Jthe_database> db.todos.insertOne[44m([49m)[34G[1G[0Jthe_database> db.todos.insertOne[44m([49m{)[35G[1G[0Jthe_database> db.todos.insertOne[44m([49m{})[36G[1D[1G[0Jthe_database> db.todos.insertOne([44m{[49m})[35G[1G[0Jthe_database> db.todos.insertOne([44m{[49m })[36G[1G[0Jthe_database> db.todos.insertOne([44m{[49m t})[37G[1G[0Jthe_database> db.todos.insertOne([44m{[49m te})[38G[1G[0Jthe_database> db.todos.insertOne([44m{[49m tex})[39G[1G[0Jthe_database> db.todos.insertOne([44m{[49m text})[40G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m:})[41G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: })[42G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [32m"})[39m[43G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m""[39m})[44G[1D[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49m"[39m})[43G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mI"[39m})[44G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIn"[39m})[45G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mInc"[39m})[46G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncr"[39m})[47G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncre"[39m})[48G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrea"[39m})[49G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncreas"[39m})[50G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease"[39m})[51G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease "[39m})[52G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease t"[39m})[53G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease th"[39m})[54G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the"[39m})[55G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the "[39m})[56G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the n"[39m})[57G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the nu"[39m})[58G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the num"[39m})[59G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the numb"[39m})[60G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the numbe"[39m})[61G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number"[39m})[62G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number "[39m})[63G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number o"[39m})[64G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of"[39m})[65G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of "[39m})[66G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of t"[39m})[67G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of to"[39m})[68G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of too"[39m})[69G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tool"[39m})[70G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools"[39m})[71G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools "[39m})[72G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools i"[39m})[73G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in"[39m})[74G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in "[39m})[75G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in m"[39m})[76G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my"[39m})[77G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my "[39m})[78G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my t"[39m})[79G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my to"[39m})[80G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my too"[39m})[81G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my tool"[39m})[82G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolb"[39m})[83G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolbe"[39m})[84G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolb"[39m})[83G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolbl"[39m})[84G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolb"[39m})[83G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolbe"[39m})[84G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolbel"[39m})[85G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [44m[32m"[49mIncrease the number of tools in my toolbelt"[39m})[86G[1C[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m})[87G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m,})[88G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, })[89G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, d})[90G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [36mdo[39m})[91G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, don})[92G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, done})[93G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m:})[94G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: })[95G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: f})[96G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: fa})[97G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: fal})[98G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: fals})[99G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m})[100G[1G[0Jthe_database> db.todos.insertOne([44m{[49m [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m })[101G[2C[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m })[103G
+{
+  acknowledged: [33mtrue[39m,
+  insertedId: ObjectId("6415b6a10e06c8c1aca0e8af")
+}
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.insertOne({ [33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m })[103G[1G[0Jthe_database> db.todos.create({[33mtext[39m: [32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m })[99G[1G[0Jthe_database> db.todos.find({})[32G
+[
+  {
+    _id: ObjectId("641597e7c373156349ce2a1a"),
+    text: [32m'Write code'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("641597e7c373156349ce2a1b"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId("6415b6a10e06c8c1aca0e8af"),
+    text: [32m'Increase the number of tools in my toolbelt'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gquit
+[?2004hroot@1e4bee4a62ad:/# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                                                           ]2;adrianaris@nixos:~/treaba/fsopart12/script-answers]1;..cript-answers[0m[27m[24m[J[39m[0m[49m[40m[39m adrianaris@nixos [44m[30m[30m ~/treaba/fsopart12/script-answers [43m[34m[30m  main [49m[33m[39m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2023-03-18 14:04:11+01:00 [COMMAND_EXIT_CODE="0"]
