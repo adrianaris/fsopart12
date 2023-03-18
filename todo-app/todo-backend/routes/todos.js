@@ -9,6 +9,13 @@ router.get('/', async (_, res) => {
   res.send(todos);
 });
 
+router.get('/statistics', async (_, res) => {
+  console.log('been here')
+  const stats = await redis.getAsync('added_todos')
+  console.log(stats)
+  res.send(stats)
+})
+
 /* POST todo to listing. */
 router.post('/', async (req, res) => {
   const todo = await Todo.create({
@@ -17,10 +24,11 @@ router.post('/', async (req, res) => {
   })
 
   const addedTodos = await redis.getAsync('added_todos')
+  const counter = addedTodos ? new Number(addedTodos) + 1 : 1
 
-  await redis.setAsync({
-    added_todos: addedTodos + 1
-  })
+  await redis.setAsync('added_todos', counter)
+
+  console.log(await redis.getAsync('added_todos'))
 
   res.send(todo);
 });
