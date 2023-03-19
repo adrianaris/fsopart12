@@ -9,13 +9,6 @@ router.get('/', async (_, res) => {
   res.send(todos);
 });
 
-router.get('/statistics', async (_, res) => {
-  console.log('been here')
-  const stats = await redis.getAsync('added_todos')
-  console.log(stats)
-  res.send(stats)
-})
-
 /* POST todo to listing. */
 router.post('/', async (req, res) => {
   const todo = await Todo.create({
