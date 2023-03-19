@@ -6,6 +6,8 @@ COPY . .
 
 RUN npm ci
 
+RUN CI=true npm run test
+
 RUN npm run build
 
 RUN npm install -g serve
